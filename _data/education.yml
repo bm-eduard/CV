@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Bachelor of Science, Computer Science & Engineering
+  uni: Universitat Politècnica de Catalunya
+  year: 2017 &mdash; 2021
+  # awards:
+  #   - award: Summa Cumme Laude graduate
+  summary: Completed the 100% dedication, four-year bachelor while working part time during 2 and a half of the years and full time during the last six months.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Spanish and International Baccalaureate
+  uni: Institut Jaume Vicens Vives
+  year: 2015 &mdash; 2017
+  # award: Most likely to succeed
+  summary: Part of a group of 40 students from all over Spain that received a private grant to study both curricula at the same time.
